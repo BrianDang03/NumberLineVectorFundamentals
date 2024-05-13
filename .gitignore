@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+/Number Line, Vector Fundamentals/[Ll]ibrary/
+/Number Line, Vector Fundamentals/[Tt]emp/
+/Number Line, Vector Fundamentals/[Oo]bj/
+/Number Line, Vector Fundamentals/[Bb]uild/
+/Number Line, Vector Fundamentals/[Bb]uilds/
+/Number Line, Vector Fundamentals/[Ll]ogs/
+/Number Line, Vector Fundamentals/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
